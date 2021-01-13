@@ -1,4 +1,4 @@
-# ffdcvue
+# FFDC Vuejs project
 
 ## Project setup
 ```
