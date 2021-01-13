@@ -1,13 +1,11 @@
 # FFDC VueJS Package
 
-vuejs package for accessing FFDC
+Simple VueJS code to access FFDC.
 
 ## Install
 
-Make sure you have node installed.
+We will use a standard web server.
+If you are using ```vscode``` I recommend *Live Server*
 
-Run
+We will use CDN node packages ideally.
 
-```bash
-npm install
-```
