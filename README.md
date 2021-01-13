@@ -1,8 +1,13 @@
-# ffdcvue
+# FFDC VueJS Package
+
 vuejs package for accessing FFDC
 
-## new title
+## Install
 
-bla
+Make sure you have node installed.
 
-Bla is not true it's BLUUUUE
+Run
+
+```bash
+npm install
+```
