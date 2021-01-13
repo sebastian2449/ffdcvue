@@ -1,11 +1,24 @@
-# FFDC VueJS Package
+# ffdcvue
 
-Simple VueJS code to access FFDC.
+## Project setup
+```
+npm install
+```
 
-## Install
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-We will use a standard web server.
-If you are using ```vscode``` I recommend *Live Server*
+### Compiles and minifies for production
+```
+npm run build
+```
 
-We will use CDN node packages ideally.
+### Lints and fixes files
+```
+npm run lint
+```
 
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
